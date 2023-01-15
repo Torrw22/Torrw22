@@ -1,6 +1,9 @@
-<h1>Hi, I'm Torrey! </h1>
+<h1>Hi, I'm Torrey! </h1> 
+<h1>  A Video Game Designer and Software Developer </h1>
 
 <h2>👨‍💻 Coding Projects:</h2>
+
+<h2> Video Game Projects </h2>
 
 
 
